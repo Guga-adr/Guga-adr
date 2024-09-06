@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guga-adr
-- 👀 I’m interested in Rest, nestJS, javascript, Reactjs
-- 🌱 I’m currently learning NestJS
+- 👀 I’m interested in Rest, nestJS, javascript, Reactjs, Python, GO
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me guga.adr@gmail.com
 
 <!---
